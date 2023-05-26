@@ -17,11 +17,11 @@ E4.6.py
 
 E5.2.py
 
--Prompts user for a list of numbers until the user types done. It then computes the largest and smallest numbers without using the maximum or minimum functions. Additionally, it validates user input and gives user error message if input is invalid.
+-This program prompts the user for a list of numbers until the user types "done". It then computes the largest and smallest numbers without using the maximum or minimum functions. Additionally, it validates user input and gives user error message if input is invalid.
 
 E6.5.py
 
--Extracts a floating point number from any given string/line
+-This program extracts a floating point number from any given string/line
 
 E7.2.py
 
@@ -33,7 +33,7 @@ E8.4.py
 
 E8.5.py
 
--Scrapes a file for email addresses and provides a count of how many were found at the end.
+-This program scrapes a file for email addresses and provides a count of how many were found at the end.
 
 E9.4.py
 
@@ -41,7 +41,7 @@ E9.4.py
 
 E10.2.py
 
--Counts how many eamils were sent each hour of the day from a data log of email record
+-This program counts how many eamils were sent each hour of the day from a data log of email record
 
 E11.py
 
