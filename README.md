@@ -1,7 +1,7 @@
 # Python-Portfolio
-Collection of Python projects showcasing my skillset
-
-Contents and Guide:
+Collection of Python projects showcasing my skillset/n
+/n
+Contents and Guide:/n
 
 E3.1.py
 -This program calculates pay (including overtime) with a pay rate and hours worked input.
