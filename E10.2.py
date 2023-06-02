@@ -10,14 +10,14 @@ if len(file_name) < 1:
 #Opens file
 file_handle = open(file_name)
 
-#Initializes dictionary to the count of emails sent each hour
+#Initializes dictionary to count of emails sent each hour
 counts = dict()
 
 #Reads each line in the file
 for line in file_handle:
     #Removes trailing whitespace
     line = line.rstrip()
-    #Splits the each line up into a list of words
+    #Splits each line up into a list of words
     words = line.split()
     #Checks each line to make sure a line is not blank and starts with "From"
     if len(words) > 1 and words[0] == ('From'):
